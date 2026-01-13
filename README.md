@@ -22,7 +22,9 @@ Information Technology student with a strong foundation in **AI/ML and Deep Lear
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bhavana998&theme=onedark&no-frame=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhavana998&theme=flat&row=2&column=4&margin-w=15&no-frame=true"/>
+</p>
 
 ---
 
