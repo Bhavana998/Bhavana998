@@ -20,12 +20,12 @@ Information Technology student with a strong foundation in **AI/ML and Deep Lear
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhavana998&theme=flat&row=2&column=4&margin-w=15&no-frame=true"/>
-</p>
-
+![Commits](https://img.shields.io/badge/Commits-100%2B-success)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Open-blue)
+![Repositories](https://img.shields.io/badge/Public%20Repos-Active-orange)
+![Learning](https://img.shields.io/badge/AI%2FML-Active-purple)
 ---
 
 ## 🛠️ Technical Skills
