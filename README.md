@@ -8,10 +8,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/Bhavana998?label=Followers&style=flat)](https://github.com/Bhavana998)
 [![GitHub stars](https://img.shields.io/github/stars/Bhavana998?label=Stars&style=flat)](https://github.com/Bhavana998)
 
-📧 **Email:** Bhavanasetty95@gmail.com  
-🔗 **GitHub:** [Bhavana998](https://github.com/Bhavana998)  
-🏆 **HackerRank:** [bhavanasetty95](https://www.hackerrank.com/profile/bhavanasetty95)
-
 ---
 
 ## 💡 Professional Summary
