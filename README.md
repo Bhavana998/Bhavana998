@@ -4,10 +4,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Bhavana998&label=Profile%20Views&color=0e75b6&style=flat" alt="Bhavana998 profile views" />
 </p>
-
-[![GitHub followers](https://img.shields.io/github/followers/Bhavana998?label=Followers&style=flat)](https://github.com/Bhavana998)
-[![GitHub stars](https://img.shields.io/github/stars/Bhavana998?label=Stars&style=flat)](https://github.com/Bhavana998)
-
 ---
 
 ## 💡 Professional Summary
