@@ -28,16 +28,6 @@ Information Technology student with a strong foundation in **AI/ML and Deep Lear
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Bhavana998&show_icons=true&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Bhavana998&theme=dark)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bhavana998&layout=compact&theme=dark)
-
----
-
 ## 🚀 Projects
 
 ### 🔹 Reinforcement Learning-Driven Patch Attention for Urban Scene Segmentation
@@ -69,6 +59,14 @@ Information Technology student with a strong foundation in **AI/ML and Deep Lear
 - Cross-team collaboration on deployment and testing.
 
 ---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Bhavana998&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Bhavana998&theme=dark)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bhavana998&layout=compact&theme=dark)
 
 ## 🤝 Connect With Me
 
