@@ -1,11 +1,5 @@
 # 👋 Hi, I'm Setty Bhavana
 
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Bhavana998&label=Profile%20Views&color=0e75b6&style=flat" alt="Bhavana998 profile views" />
-</p>
----
-
 ## 💡 Professional Summary
 
 Information Technology student with a strong foundation in **AI/ML and Deep Learning**, experienced in model training, optimization, and deployment. Adept at building end-to-end ML workflows, analyzing large datasets, and improving model accuracy, efficiency, and inference speed across real-world applications.
