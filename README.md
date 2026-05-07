@@ -32,12 +32,14 @@ Information Technology student with a strong foundation in **AI/ML and Deep Lear
 ## 🚀 Projects
 
 ### 🔹 Reinforcement Learning-Driven Patch Attention for Urban Scene Segmentation
+---
 
 - Improved segmentation IoU by **6–8%** using RL-guided patch attention.
 - Built training and evaluation pipelines.
 - **Tech:** Python, PyTorch, Reinforcement Learning
 
 ### 🔹 Nature-Based Bug Prediction (Ensemble ML)
+---
 
 - Built **Random Forest + XGBoost** ensemble improving precision/recall by **12%**.
 - Feature engineering & selection.
