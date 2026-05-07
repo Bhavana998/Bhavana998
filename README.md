@@ -32,14 +32,57 @@ Information Technology student with a strong foundation in **AI/ML and Deep Lear
 ## 🚀 Projects
 
 ### 🔹 Reinforcement Learning-Driven Patch Attention for Urban Scene Segmentation
+
 - Improved segmentation IoU by **6–8%** using RL-guided patch attention.
 - Built training and evaluation pipelines.
 - **Tech:** Python, PyTorch, Reinforcement Learning
 
 ### 🔹 Nature-Based Bug Prediction (Ensemble ML)
+
 - Built **Random Forest + XGBoost** ensemble improving precision/recall by **12%**.
 - Feature engineering & selection.
 - **Tech:** Python, Scikit-learn, Pandas, XGBoost
+
+## 🔹 Hybrid RAG Complaint Classification System
+
+### 📌 Overview
+An AI-powered complaint classification system built using a **Retrieval-Augmented Generation (RAG)** pipeline. The system enhances response accuracy by combining semantic retrieval with generative AI.
+
+### ⚙️ Features
+- 🔍 Semantic search using transformer-based embeddings  
+- 🧠 Retrieval-Augmented Generation for improved classification  
+- 🎤 Voice-based input for user queries  
+- 🌐 Interactive deployment using Streamlit  
+
+### 🛠️ Tech Stack
+- Python  
+- Transformers (NLP)  
+- FAISS (Vector Search)  
+- Streamlit  
+
+### 🚀 Key Highlights
+- Improved response relevance using hybrid retrieval + generation approach  
+- Efficient handling of user complaints with contextual understanding  
+
+## 🔹 Marksheet Extraction System (OCR Pipeline)
+
+### 📌 Overview
+An automated **OCR-based document processing system** that extracts structured data from scanned marksheets and converts it into machine-readable format.
+
+### ⚙️ Features
+- 📄 Extracts structured student data from scanned documents  
+- 🧹 Image preprocessing for improved OCR accuracy  
+- 🔧 Handles noisy and low-quality images effectively  
+
+### 🛠️ Tech Stack
+- Python  
+- OpenCV  
+- Tesseract OCR  
+
+### 🚀 Key Highlights
+- Applied preprocessing techniques like denoising, thresholding, and resizing  
+- Improved extraction accuracy under real-world noisy conditions  
+- Converts unstructured documents into structured digital data.
 
 ---
 
