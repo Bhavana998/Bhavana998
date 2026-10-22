@@ -108,11 +108,14 @@ An automated **OCR-based document processing system** that extracts structured d
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Bhavana998&show_icons=true&theme=dark)
+<p align="center">
+  <img height="170" alt="Bhavana998's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Bhavana998&show_icons=true&theme=dark&hide_border=true" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavana998&layout=compact&theme=dark&hide_border=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bhavana998&theme=dark)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bhavana998&layout=compact&theme=dark)
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Bhavana998&theme=dark&hide_border=true" />
+</p>
 
 ## 🤝 Connect With Me
 
