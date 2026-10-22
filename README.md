@@ -100,10 +100,19 @@ An automated **OCR-based document processing system** that extracts structured d
 
 ## 💼 Internships & Experience
 
-**Multiple Internships — Web Dev, ML, Data Analytics, Cybersecurity**
-- Automated data pipelines & reproducible ML notebooks.
-- Cross-team collaboration on deployment and testing.
+🚀 SDET-AI Intern | Crowd4Test
 
+Sep 2026 – Nov 2026
+
+- Working as part of the SDET team on software testing and test automation using AI-driven approaches.
+- Exploring AI/ML techniques to support quality assurance and improve testing workflows.
+
+🤖 Foundations of Artificial Intelligence Intern | Microsoft & Edunet Foundation
+
+Apr 2025 – May 2025
+
+- Gained hands-on experience with artificial intelligence fundamentals and machine learning concepts.
+- Worked on basic AI models and practical implementations.
 ---
 
 ## 📊 GitHub Stats
