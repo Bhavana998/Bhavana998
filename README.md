@@ -102,7 +102,7 @@ An automated **OCR-based document processing system** that extracts structured d
 
 🚀 SDET-AI Intern | Crowd4Test
 
-Sep 2026 – Nov 2026
+Sep 2026 – present 
 
 - Working as part of the SDET team on software testing and test automation using AI-driven approaches.
 - Exploring AI/ML techniques to support quality assurance and improve testing workflows.
